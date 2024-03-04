@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-notificationsconfigurationplugin",
+  "version": "1.0.0",
+  "description": "Configuration of Notifications for iOS",
+  "cordova": {
+    "id": "cordova-plugin-notificationsconfigurationplugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Tito Azevedo",
+  "license": "ISC"
+}
